@@ -1,0 +1,2 @@
+# Ritmo
+Discord music bot.
