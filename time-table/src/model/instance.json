@@ -1,8 +1,7 @@
 {
     "teacher" : "",
-    "class" : "",
     "sections" : [""],
     "subject" : "",
-    "labs" : "",
-    "lectures" : ""
+    "numLabs" : "",
+    "numLectures" : ""
 }
